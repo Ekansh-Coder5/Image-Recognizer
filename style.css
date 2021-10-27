@@ -1,0 +1,13 @@
+body {
+    background-color: aqua;
+}
+
+.heading {
+    font-size: 22.5;
+    font-family: cursive;
+}
+
+.info {
+    font-size: 23;
+    color: tomato;
+}
